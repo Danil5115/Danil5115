@@ -11,7 +11,7 @@ I'm a student specializing in Applied Informatics, with a passion for technology
 
 ## Get in Touch
 
-- LinkedIn: [Danil Korchagin]([[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/danil-korchagin-431822292/)](https://www.linkedin.com/in/danil-korchagin-431822292/))
+- LinkedIn: [Danil Korchagin]([https://www.linkedin.com/in/your-actual-linkedin-profile](https://www.linkedin.com/in/danil-korchagin-431822292/))
 - Email: kordp51@gmail.com
 
 Feel free to reach out if you'd like to collaborate, discuss projects, or simply chat about technology and programming. I'm always open to new connections and opportunities.
